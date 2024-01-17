@@ -31,8 +31,6 @@ Eureka Server: Service discovery for streamlined communication between microserv
 
 Resource Sharing: Seamless sharing of assignments, and resources.
 
-Collaboration Tools: Tools for group discussions and communication.
-
 Getting Started:
 
 Prerequisites:
